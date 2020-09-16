@@ -9,6 +9,7 @@ input,textarea{
  padding:20px;
  margin:10px;
  border:none;
+ color:black;
  border-bottom:2px solid black;
  border-radius:20px;
 }
