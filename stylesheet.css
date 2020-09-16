@@ -84,6 +84,9 @@ ul{
 .contact{
  color:white;
  height:180px;
+ background-color:gray;
+ padding:0px;
+ margin:0px;
 }
 
 h1{
